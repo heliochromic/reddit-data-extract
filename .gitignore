@@ -1,0 +1,10 @@
+.idea/*
+logs/*
+__pycache__/*
+*.db
+*.ini
+venv
+/input
+/logs
+*.parquet
+*.ipynb

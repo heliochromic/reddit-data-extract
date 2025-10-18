@@ -1,0 +1,20 @@
+certifi==2025.7.14
+charset-normalizer==3.4.2
+dnspython==2.7.0
+idna==3.10
+multiprocessing-logging==0.3.4
+numpy>=2.1.0
+pandas>=2.0.0
+pyarrow>=14.0.0
+praw==7.8.1
+prawcore==2.4.0
+pymongo[srv]==4.13.2
+requests==2.32.4
+scipy>=1.14.0
+sortedcontainers==2.4.0
+update-checker==0.18.0
+urllib3==2.5.0
+websocket-client==1.8.0
+zstandard==0.23.0
+orjson==3.10.12
+discord-logging @ git+https://github.com/Watchful1/DiscordLogging.git@049d47a134f7e4f87f0ae8363b1e6866d9ecba50
