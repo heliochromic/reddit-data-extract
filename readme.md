@@ -5,7 +5,7 @@ Filter Reddit dump files (.zst) and convert to Parquet format.
 ## Installation
 
 ```bash
-pip install zstandard pandas pyarrow orjson
+pip install -r requirements.txt
 ```
 
 ## Usage
